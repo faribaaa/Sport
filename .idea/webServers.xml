@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="f79cda80-003e-4bcc-94e6-eadf6c81a444" name="apachi" url="http://localhost/MyWeb">
+        <fileTransfer port="0" mountedRoot="C:\laragon\www\MyWeb" accessType="MOUNT" />
+      </webServer>
+    </option>
+  </component>
+</project>
